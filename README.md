@@ -1,6 +1,6 @@
-This program is for training a language model using various tokenization techniques and the GPT-2 model.
+This Project is for training a language model using various tokenization techniques and the GPT-2 model.
 
-<img width="1536" height="1024" alt="Image" src="https://github.com/user-attachments/assets/6259d24d-ec5a-44d7-b28b-7f71a6846e3e" />
+<img width="1019" height="583" alt="Image" src="https://github.com/user-attachments/assets/03322674-9b37-43cd-8ffa-71732bc6ff4e" />
 
 Tokenization with Pre-trained Models:
 -> It uses BertTokenizer to tokenize a sentence using a pre-trained BERT model.
